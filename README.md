@@ -4,7 +4,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-brightgreen)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
 **Roomily** is a seamless online marketplace for discovering and booking short- and long-term accommodations — designed for **students and travelers**.  
 It connects **hosts** who have available spaces with **guests** looking for comfortable and affordable stays, similar to Airbnb.
