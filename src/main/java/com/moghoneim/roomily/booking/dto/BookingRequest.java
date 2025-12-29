@@ -1,0 +1,25 @@
+package com.moghoneim.roomily.booking.dto;
+
+import com.moghoneim.roomily.property.PropertyEntity;
+import com.moghoneim.roomily.user.entity.User;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+
+import java.time.LocalDateTime;
+
+
+
+@Data
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
+public class BookingRequest {
+
+    private int numberOfGuests;
+    private PropertyEntity property;
+
+
+}
